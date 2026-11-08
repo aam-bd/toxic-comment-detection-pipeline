@@ -1,0 +1,8 @@
+.venv/
+venv/
+.ipynb_checkpoints/
+results_*/checkpoint-*/
+project.zip
+__pycache__/
+*.pyc
+.env

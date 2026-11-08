@@ -1,0 +1,27 @@
+# Core Deep Learning & NLP Frameworks
+torch>=2.0.0
+transformers>=4.35.0
+datasets>=2.14.0
+evaluate>=0.4.0
+accelerate>=0.24.0
+
+# Scientific Computing & Machine Learning
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+
+# Hyperparameter Optimization
+optuna>=3.3.0
+
+# Model Interpretability & Explainability
+shap>=0.43.0
+lime>=0.2.0
+
+# Visualization & Plotting
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Interactive Notebook Environment
+ipywidgets>=8.0.0
+jupyterlab>=4.0.0
+notebook>=7.0.0
