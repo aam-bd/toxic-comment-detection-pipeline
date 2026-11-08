@@ -3,7 +3,7 @@
 **Course / Program:** Skills for Industry Competitiveness and Innovation Program (SICIP)  
 **Institution:** BRAC University  
 **Student Name:** Md. Abdullah Al Mamun  
-**Student ID:** 1000  
+**Student ID:** 1000128810  
 **Assignment:** Assignment 03  
 **Dataset:** Google Civil Comments (`google/civil_comments`)  
 **Primary Architecture:** DistilBERT (`distilbert-base-uncased`)  
@@ -333,8 +333,8 @@ Toxicity is intrinsically subjective. Annotator agreement on borderline comments
 ### 11.2 Running Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USER_NAME/assignment-03-toxicity-classification.git
-   cd assignment-03-toxicity-classification
+   git clone https://github.com/aam-bd/toxic-comment-detection-pipeline.git
+   cd toxic-comment-detection-pipeline
    ```
 2. Create and activate a Python virtual environment:
    ```bash
